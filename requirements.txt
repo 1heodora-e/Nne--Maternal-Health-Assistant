@@ -1,0 +1,2 @@
+# For loading .env (HF token) in the notebook
+python-dotenv>=1.0.0

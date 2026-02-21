@@ -1,0 +1,76 @@
+input,expected,generated,bleu,rouge_f1
+"Hi doctor,My son is 9 months old and weighs about 8.5 kg. He has reached all his milestones in time. But the problem is he does not sleep well at night, maximum at a stretch it is only one hour. He keeps walking up and only a bottle can soothe him. During the day he is active but nights are really tough. He does not wake up completely but will be crying in his sleep itself and can soothe only with a bottle. Please suggest something with regard to this.","Risk: Low. Proceed with supportive, informative response.
+
+Hi, . Do not worry. It is a common problem among chil ChatDoctor. Baby is asking for the bottle because it pacifies him. So to put him to sle","<thinking>Risk: High. Consider emergency referral or urgent evaluation.</thinking>
+
+Hi, . I have gone through your case and seen that you are having sleep walking at night. As you are just 9 months ol",0.04282506117806352,0.1877022653721683
+"In von Willebrand disease, what is impaired due to low vWF levels?","Risk: High. Consider emergency referral or urgent evaluation.
+
+In von Willebrand disease, platelet adhesion is impaired due to low levels of von Willebrand factor (vWF). vWF is a protein that plays an","<thinking>Risk: High. Consider emergency referral or urgent evaluation.</thinking>
+
+In von Willebrand disease, impaired platelet adhesion and aggregation are the result of low levels of vWF. Von Wille",0.30246511950116084,0.4639175257731959
+"In children, what is the leading cause of severe diarrhea?","Risk: High. Consider emergency referral or urgent evaluation.
+
+Rotavirus is the most frequent cause of severe diarrhea in children. Rotavirus is a highly contagious virus that can spread through conta","<thinking>Risk: Low. Proceed with supportive, informative response.</thinking>
+
+The leading cause of severe diarrhea in children is a bacterial infection. This type of diarrhea is typically characteri",0.21613683708440026,0.4285714285714286
+"I'm a teenager and I get these really intense mood swings. My mood will be really high and I'll think of something that I want to do. When I start to make it happen I get irritated by other people if they intervene. Then if the thing I wanted to do doesn't work out, I have these tendencies to blame other people for it not working out. Can you explain what's going on?","Risk: Low. Proceed with supportive, informative response.
+
+Mood swings and getting frustrated when things don't work out is totally normal. Sometimes, we get tied to one thing we really want to do and","<thinking>Risk: Low. Proceed with supportive, informative response.</thinking>
+
+I can definitely see how this is frustrating for you. You're describing what is called a mood disorder which can be very",0.08381584130842638,0.2987012987012987
+What could be the possible diagnosis for a young woman that presents with periods of binge eating with no compensatory behavior? Physical exam is unremarkable. Her BMI is 30 kg/m2.,"Risk: Low. Proceed with supportive, informative response.
+
+The likely diagnosis for the patient's condition is binge eating disorder.","<thinking>Risk: Low. Proceed with supportive, informative response.</thinking>
+
+The possible diagnosis for a young woman that presents with periods of binge eating with no compensatory behavior is bin",0.09313374744112377,0.22900763358778625
+Which drug class is linked to the development of cataracts with prolonged use?,"Risk: Low. Proceed with supportive, informative response.
+
+Corticosteroids are the drug class that is associated with cataracts when used for an extended period of time.","<thinking>Risk: High. Consider emergency referral or urgent evaluation.</thinking>
+
+The drug class that is linked to the development of cataracts with prolonged use is NSAIDs. NSAIDs, or non-steroidal",0.07094486018672357,0.1774193548387097
+"What is specific phobia, and how is it defined in terms of the duration of symptoms and the triggers for fear or anxiety?","Risk: High. Consider emergency referral or urgent evaluation.
+
+Specific phobia is a type of anxiety disorder that is characterized by severe, persistent fear or anxiety triggered by specific things, s","<thinking>Risk: High. Consider emergency referral or urgent evaluation.</thinking>
+
+Specific phobia is a subtype of anxiety disorder that is characterized by an intense fear of a specific object or si",0.18710282803820855,0.3717948717948718
+What is the effect of hyposmotic volume contraction (such as in adrenal insufficiency) on hematocrit?,"Risk: Low. Proceed with supportive, informative response.
+
+Hyposmotic volume contraction typically leads to an increase in hematocrit levels.","<thinking>Risk: Low. Proceed with supportive, informative response.</thinking>
+
+Hyposmotic volume contraction (such as in adrenal insufficiency) causes an increase in hematocrit. This occurs because t",0.10907149567631713,0.2543859649122807
+"Hi doctor,I am a 27 year old female. I have skipped my periods which was due on 4th. I have PCOD issue. Now I have morning sickness, cannot eat something sweet, fatigue and mild crampings on right and sometimes throughout with upper backache and lower backache. Did my urine test at home yesterday, it was negative. So, kindly help me out with this. Thank you.","Risk: Low. Proceed with supportive, informative response.
+
+Hello, . The period may be late due to many reasons including anxiety and stress. In your case, it may be due to PCOD or thyroid problem. The","<thinking>Risk: Low. Proceed with supportive, informative response.</thinking>
+
+Hello, . If you skipped your periods, and you have been on a hormonal tablet for PCOD, then there are chances of ovulati",0.17256791802963953,0.3142857142857143
+What is the range of the incubation period for Rickettsia rickettsii?,"Risk: Low. Proceed with supportive, informative response.
+
+The range of the incubation period for Rickettsia rickettsii is 2-14 days.","<thinking>Risk: Low. Proceed with supportive, informative response.</thinking>
+
+The incubation period for Rickettsia rickettsii can range from a few days to a few weeks. This bacterium is a type of ri",0.11677484162422844,0.2786885245901639
+"Can fetal growth restriction occur as a result of uteroplacental insufficiency, even if the neonate is delivered at term?","Risk: Low. Proceed with supportive, informative response.
+
+Yes, fetal growth restriction can occur as a result of uteroplacental insufficiency, even if the neonate is delivered at term. Uteroplacental","<thinking>Risk: Low. Proceed with supportive, informative response.</thinking>
+
+Yes, fetal growth restriction can occur as a result of uteroplacental insufficiency, even if the neonate is delivered at",0.37755830763807446,0.558139534883721
+"Hello doctor,I have PCOS and I visited a dermatologist for acne and hirsutism profile. She suggested me Krimson 35 for 21 days and Aldactone 50 for three months. I am on my fourth day of my periods and my bleeding had reduced but when I consumed Krimson 35 before going to sleep my bleeding increased. I had clitoris simulation after taking Krimson. Is it because of that I have high bleeding or is it usual to have it while taking Krimson. Please help.","Risk: High. Consider emergency referral or urgent evaluation.
+
+Hi. Krimson is an Estrogen-Progesterone medicine. It requires some time to balance your hormones. Relax, do not worry about the bleeding ","<thinking>Risk: High. Consider emergency referral or urgent evaluation.</thinking>
+
+Hello. The bleeding that you are getting after Krimson 35 is not due to that medicines. It is probably due to the hi",0.13522688856052137,0.2628205128205128
+"Hi doctor,I am six weeks pregnant, and I am using 20 units of Corparin injection daily. On the first day, I was given 20 units, and on the next day, I was given 40 units. Will it cause any harm to my pregnancy?","Risk: Low. Proceed with supportive, informative response.
+
+Hi. Corparin (Enoxaparin) has low molecular weight. It blocks the formation of blood coagulation proteins, and it prevents the formation of b","<thinking>Risk: High. Consider emergency referral or urgent evaluation.</thinking>
+
+Hi. Corpoven is a medication that is given to prevent blood clots in the veins, and it is usually given in 20 units ",0.0858906764967316,0.20670391061452514
+"Hello doctor,I have a lump under my skin on my arm, and it is slight my raised. It is not painful, and it is 5 mm in diameter. It has got a dark center that looks like a bruise. It has not grown in size either. What could it be?","Risk: High. Consider emergency referral or urgent evaluation.
+
+Hello. I understand your concern, but there are no attached photographs in your message. Kindly send a picture of the affected area to he","<thinking>Risk: High. Consider emergency referral or urgent evaluation.</thinking>
+
+Hello, . I have gone through your query and the picture uploaded as attachment. If the size of the lump is not more ",0.14059301947425304,0.2857142857142857
+"What could be the possible diagnosis for a young female who presents with symptoms such as orthostatic hypotension, hyponatremia, hypokalemia, and on laboratory tests shows high levels of urine Na+ and K+, suggestive of a condition affecting the body's fluid and electrolyte balance?","Risk: Low. Proceed with supportive, informative response.
+
+The likely diagnosis for the patient's condition is diuretic abuse.","<thinking>Risk: High. Consider emergency referral or urgent evaluation.</thinking>
+
+The possible diagnosis for a young female presenting with symptoms such as orthostatic hypotension, hyponatremia, hy",0.025123302075452107,0.11016949152542374

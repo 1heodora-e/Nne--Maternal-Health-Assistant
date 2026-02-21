@@ -1,0 +1,14 @@
+{
+  "experiment": "Exp2_high_lr",
+  "learning_rate": 0.0001,
+  "batch_size": 4,
+  "num_epochs": 2,
+  "gradient_accumulation_steps": 2,
+  "final_train_loss": 1.4631,
+  "final_val_loss": 1.477357268333435,
+  "avg_bleu": 0.16506528115018856,
+  "avg_rouge_f1": 0.32309139273717297,
+  "perplexity": 4.381351630987507,
+  "training_time_sec": 2305.6980333328247,
+  "gpu_memory_gb": 12.527934976
+}
