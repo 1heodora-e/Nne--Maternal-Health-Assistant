@@ -190,10 +190,10 @@ HF_TOKEN=hf_YourTokenHere
 Then:
 
 ```bash
-python app.py
+python nne_chatbot_app.py
 ```
 
-For a public link (e.g. for recording a demo): `GRADIO_SHARE=1 python app.py`
+For a public link (e.g. for recording a demo): `GRADIO_SHARE=1 python nne_chatbot_app.py`
 
 ### 3. Use the model directly
 

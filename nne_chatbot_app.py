@@ -1,13 +1,4 @@
-"""
-Nne – Maternal Health Chatbot (Gradio)
-Use for: (1) Demo video – run locally with GPU; set GRADIO_SHARE=1 for a public link.
-         (2) Hugging Face Space – upload this file + requirements.txt (as requirements.txt)
-             and your adapter (or set ADAPTER_PATH to a Hub repo); runs on CPU (slower).
 
-Install: pip install -r requirements.txt
-Run:     python app.py
-         For shareable link (demo): set GRADIO_SHARE=1 then python app.py
-"""
 
 import json
 import os
