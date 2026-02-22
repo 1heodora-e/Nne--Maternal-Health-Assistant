@@ -275,11 +275,6 @@ print(ask_nne("What are signs of preeclampsia?"))
 **Demo video:** [Add your 5–10 minute demo video link here]
 **Report:** [Add link to your PDF report if hosted publicly]
 
----
-
-## Contact
-
-For questions or collaboration: [Your email or contact link]
 
 ---
 
