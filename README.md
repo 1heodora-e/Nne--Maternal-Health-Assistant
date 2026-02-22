@@ -270,7 +270,7 @@ print(ask_nne("What are signs of preeclampsia?"))
 |----------|------|
 | **Live demo** | [Hugging Face Space](https://huggingface.co/spaces/TheodoraE/nne-llm-maternal-health-chatbot) |
 | **Adapter model** | [Hugging Face Hub](https://huggingface.co/TheodoraE/nne-maternal-health-adapter) |
-| **GitHub** | [Nne--Maternal-Health-Assistant](https://github.com/TheodoraE/Nne--Maternal-Health-Assistant) |
+| **GitHub** | [Nne--Maternal-Health-Assistant](https://github.com/1heodora-e/Nne--Maternal-Health-Assistant) |
 
 **Demo video:** [Add your 5–10 minute demo video link here]
 **Report:** [Add link to your PDF report if hosted publicly]
