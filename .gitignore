@@ -6,3 +6,6 @@ __pycache__/
 venv/
 .venv/
 outputs_nne/*.zip
+# Uncomment to avoid committing large checkpoints (adapter is on Hugging Face Hub):
+# outputs_nne/
+# outputs_nne/*/checkpoint-*/
